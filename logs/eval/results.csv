@@ -1,0 +1,14 @@
+kind,trial,files_written,multi_detect_at,kill_at,entropy_only_at
+fast,1,20,2,4,5
+fast,2,20,2,4,5
+fast,3,20,2,4,5
+fast,4,20,2,4,5
+fast,5,20,2,4,5
+slow,1,5,2,4,-
+slow,2,5,2,4,-
+slow,3,4,2,4,-
+gzip,1,20,-,-,5
+gzip,2,20,-,-,5
+gzip,3,20,-,-,5
+gzip,4,20,-,-,5
+gzip,5,20,-,-,5
